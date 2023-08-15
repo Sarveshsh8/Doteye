@@ -14,9 +14,8 @@ Annotation format
 2. If the annotation is in coco json, just login to roboflow account and convert the json file to yolovtxt format or any format required.
 
 
-
+#code 
 1.run python_video.py to check the person detection
-
 2. run python_video_track.py for person tracking
 
 
