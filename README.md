@@ -15,7 +15,9 @@ Annotation format
 
 
 
-run python_video.py to check the person detection
-run python_video_track.py for person tracking
+1.run python_video.py to check the person detection
+
+2. run python_video_track.py for person tracking
+
 
 
