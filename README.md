@@ -8,3 +8,9 @@
 5. Use export.py to export the models to onnx format for faster inference on cpu device
 6. Use val.py to validate the model performance
 
+#Annotation format
+
+1. USE LABEL IMG / LABEL ME TO ANNOTATE IMAGES (COCO,PASCALVOC,YOLO)
+2. If the annotation is in coco json, just login to roboflow account and convert the json file to yolovtxt format or any format required.
+
+
